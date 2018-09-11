@@ -8,19 +8,19 @@ Para ello, debe diseñar escenarios para dos características de Whatsapp (por e
 
 ### Debe contener ###
 
-El desafio consta de dos fases de validación:
+**El desafio consta de dos fases de validación:**
 
-La primera esta enfocada en validar su conocimento en crear escenarios de pruebas, para eso tenemos como propuesta la siguiente actividad:
+La primera esta enfocada en validar su conocimento en **crear escenarios de pruebas**, para eso tenemos como propuesta la siguiente actividad:
 
 
 * Especificación de dos características de Whatsapp (no importa si la aplicación es Android, iOS, Windows Phone o Web) en Gherkin o Gauge
 * Cada especificación debe contener al menos un escenario de prueba
 
 
-La segunda fase esta enfocada en validar habilidades técnicas en soluciones de problemas, abajo tenemos un ejercicio que debe ser solucionado
+La segunda fase esta enfocada en **validar habilidades técnicas en soluciones de problemas**, abajo tenemos un ejercicio que debe ser solucionado
 
 * La solución del ejercicio [aquí](Kata09.md), en el lenguaje de programación que le resulte más conveniente
-* La solución del ejercicio debe ser realizada via código fuente, teniendo como criterios de validación la interpretación del problema y la lógica de programación aplicada.
+* La solución del ejercicio debe ser realizada **via código fuente**, teniendo como criterios de validación la interpretación del problema y la lógica de programación aplicada.
 
 
 
